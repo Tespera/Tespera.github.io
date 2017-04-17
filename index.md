@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tespera's Blog.
 
 You can use the [editor on GitHub](https://github.com/Tespera/Tespera.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
